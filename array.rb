@@ -7,6 +7,13 @@ def square_array
     return_array .push num*num
   
   
+end
+
+return_array
+
+
+end
+  
   
   
   
