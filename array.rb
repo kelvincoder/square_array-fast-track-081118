@@ -1,15 +1,13 @@
 def square_array
   
   
-  return_array = []
-  array.each do |num|
+
+  array.map { |num||num|}
     
-    return_array .push num*num
+  
   
   
 end
-
-return_array
 
 
 end
