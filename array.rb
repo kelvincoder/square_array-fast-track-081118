@@ -1,6 +1,10 @@
 def square_array
-  numbers [2, 4, 8]
+  
+  
+  return_array = []
   array.each do |num|
+    
+    return_array
   
   
   
